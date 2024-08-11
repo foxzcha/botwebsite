@@ -1,0 +1,12 @@
+h1 {
+    font-size: xx-large;
+    font-family: sans-serif;
+    font-weight: bolder;
+    background-color: color(srgb rgba(48, 45, 45, 0.438) rgba(0, 0, 0, 0.562) rgba(0, 0, 0, 0.527));
+}
+
+body {
+    background: fixed;
+    background-color: rgba(63, 60, 60, 0.781);
+
+}
